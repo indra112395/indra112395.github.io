@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Indra Pirman
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              https://indra112395.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Indra Firman
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Sistem Informasi 2013 UIN Suska Riau."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: #jazma101 #username
+  facebook: #deactivate.py #username
   google:
-    plus: kampar #username
+    plus:  #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: #kampar #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
